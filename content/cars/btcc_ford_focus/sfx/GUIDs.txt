@@ -1,0 +1,37 @@
+{5dc6f439-4dcf-4619-bd96-d63c2660bb84} event:/cars/btcc_ford_focus/backfire_ext
+{4f4e3fb5-7070-4922-b976-55c4275fc8ee} event:/cars/btcc_ford_focus/backfire_int
+{4e46c287-a433-4198-838c-801e76ebb8fe} event:/cars/btcc_ford_focus/bodywork
+{0f36838a-5491-47eb-a6c9-85cbc79f8cf7} event:/cars/btcc_ford_focus/door
+{d92e7256-07f1-4d17-9e41-5026683f9fdc} event:/cars/btcc_ford_focus/engine_ext
+{157c38df-2205-4d0c-88a6-7a6896339d59} event:/cars/btcc_ford_focus/engine_int
+{01bc37de-b224-470b-839a-194a6c774fca} event:/cars/btcc_ford_focus/gear_ext
+{92fd648d-c45d-40d5-bfcd-ac127163ac9a} event:/cars/btcc_ford_focus/gear_grind
+{7fc96394-94a0-4ceb-af2e-b9d19fa95c49} event:/cars/btcc_ford_focus/gear_int
+{0936ea5b-9110-48f8-96a4-d4a762e1a2d8} event:/cars/btcc_ford_focus/horn
+{9d1c79b9-5305-4778-8ab9-ebcd30cdbf96} event:/cars/btcc_ford_focus/limiter
+{8a354663-74b0-4ccb-b0b8-3b5153f50ed2} event:/cars/btcc_ford_focus/skid_ext
+{1601b921-0777-42aa-bda1-052b2dcd8855} event:/cars/btcc_ford_focus/skid_int
+{221d530a-32a3-4257-9ecb-75271464f4e1} event:/cars/btcc_ford_focus/tractioncontrol_ext
+{0c64d0c7-d68b-4796-94a3-fb34ab214fef} event:/cars/btcc_ford_focus/tractioncontrol_int
+{eab4461d-a3c2-413a-a3c4-3b232a723465} event:/cars/btcc_ford_focus/transmission
+{e68c01ea-918f-463f-ac09-2bb69de6c20c} event:/cars/btcc_ford_focus/wheel
+{29004f86-c3dc-455d-b9c3-c0f054ec0508} event:/cars/btcc_ford_focus/wind
+{08f6ba78-f576-4f9f-a232-47657d5fec19} bus:/
+{378981f8-2b16-4f5d-8911-bd454df05e6b} bus:/CARS
+{a5019ec0-6d9b-4e4b-b999-17d8383f1d84} bus:/common
+{449b1cf9-dc7f-46a7-87db-dc7fa76bcf85} bus:/EXTERIOR sounds
+{19c2aa16-2752-46c7-ad80-57f852200f35} bus:/EXTERIOR sounds/Skid EXT
+{3a35a0e3-1b1a-4db9-8210-1dcb474ec1eb} bus:/INTERIOR engines
+{f9c99d0d-e3cd-413c-9969-185e22e08a4e} bus:/surfaces
+{ee0e6430-ba19-4c05-a201-d9c00f8fd1f7} bus:/Wind and Wheels
+{61e13a9c-887e-4b94-8d11-12ba197b6c22} bus:/Wind and Wheels/wheels (closed cars)
+{759fd77f-a073-4974-b3e5-21f706fa01b9} bus:/Wind and Wheels/wheels (open wheels)
+{4ce682d5-0cc5-4845-a6b5-eb8b073e2959} bus:/Wind and Wheels/wind (closed cars)
+{bb7998e4-68b3-45ea-9308-e015dde4ef11} bus:/Wind and Wheels/wind (open wheels)
+{a657fc05-b25c-4111-8dd1-c0dadbb5205e} vca:/Engine EXT
+{b425ed0d-7a84-4f2b-8e7a-5b55501ec292} vca:/gear_int - CLICK
+{eed6d155-e23d-4589-a2fb-2d5cc4165ba6} vca:/gearint_paddles
+{e18b58af-e0c3-4595-80af-aabf0908701d} vca:/transmission
+{ba82f681-7ba4-44c9-a8a7-e7dc95d453d1} snapshot:/Exterior Reverb
+{47dcf37a-6a8d-4ef6-9f82-2e0398fa69f9} bank:/common
+{4b92e6ce-e701-48dd-8dc2-cb371c15dbfe} bank:/btcc_ford_focus
